@@ -45,5 +45,25 @@ The **main motive** of this platform is to help people **sell their scrap easily
 - Supports sustainability  
 - Followed by top brands 
 
+## Author
+This project is developed by **Anuj Kumar** to practice front-end development and create a **user-friendly, accessible, and eco-friendly platform**.
 
+
+## Thank You!
+
+Thank you for taking the time to check out this project. Your interest, feedback, and contributions are always appreciated.  
+
+If you have any suggestions, find a bug, or want to contribute, feel free to open an issue or submit a pull request. Let’s make this project better together!  
+
+Stay connected and happy coding! 🚀
+
+## Contact & Community
+You can easily connect with **Ucleve Traders** and provide feedback:
+
+- **Call / Phone:** [📞 +91 7480982980](tel:+917480982980)  
+- **Email:** [📧 anuj437795@gmail.com](mailto:anuj437795@gmail.com?subject=customer%20Query&body=write%20your%20email%20and%20contact%20before%20writing%20the%20query)  
+- **Instagram:** [👉 Follow](https://www.instagram.com/anuj_gupta.96)  
+- **LinkedIn:** [👉 Connect](https://www.linkedin.com/in/gupta-a-549184327)  
+- **WhatsApp Chat:** [💬 Chat / Join Group](https://wa.me/917480982980)  
+- **WhatsApp Community Group:** [👉 Join Group](https://chat.whatsapp.com/GLL7CSAEnAY6JPRS3nHX5R?mode=hqrt2)
 
