@@ -1,6 +1,6 @@
 # Ucleve Traders Website Project
-![Ucleve Logo](https://github.com/Anuj-789/Anuj-s-Ucleve/blob/main/photo/logo1.jpg?raw=true)
-<img src="https://github.com/Anuj-789/Anuj-s-Ucleve/blob/main/photo/logo1.jpg?raw=true" alt="Ucleve Logo" width="200" height="100"/>
+<img src="https://github.com/Anuj-789/Anuj-s-Ucleve/blob/main/photo/logo1.jpg?raw=true" alt="Ucleve Logo" width="700" height="300"/>
+<img src="https://github.com/Anuj-789/Anuj-s-Ucleve/blob/main/photo/logo1.jpg?raw=true" alt="Ucleve Logo" style="max-width:200px; width:50%; height:auto;">
 
 **Project Idea:**  
 This is my personal front-end project built for **Ucleve Traders**, a smart and trusted scrap trading company founded by Anuj Kumar. The website is designed to inform users about services, sustainability, and accessibility.  
